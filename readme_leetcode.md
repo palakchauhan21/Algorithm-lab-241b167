@@ -2,7 +2,7 @@
 2.Add Two Number                                         Med
 3.Longest Substring Without Repeating Charac             Med
 4.Median of Two Sorted Arrays                            Hard
-Longest Palindromic Substring                          Med
+5.Longest Palindromic Substring                          Med
 Zigzag Conversion                                      Med
 Reverse Integer                                        Med
 String to Integer (atoi)                               Med
